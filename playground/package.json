@@ -20,7 +20,7 @@
   "license": "MIT",
   "dependencies": {
     "bulma": "^1.0.0",
-    "codemirror": "^5.65.8",
+    "codemirror": "^6.0.1",
     "devicon": "^2.16.0",
     "ismobilejs": "^1.1.1",
     "pako": "^2.1.0"
